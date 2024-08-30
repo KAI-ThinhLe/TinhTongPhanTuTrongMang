@@ -1,0 +1,15 @@
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\bin\Debug\net8.0\TinhTongPhanTu.exe
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\bin\Debug\net8.0\TinhTongPhanTu.deps.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\bin\Debug\net8.0\TinhTongPhanTu.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\bin\Debug\net8.0\TinhTongPhanTu.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\bin\Debug\net8.0\TinhTongPhanTu.pdb
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.sourcelink.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\refint\TinhTongPhanTu.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.pdb
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\TinhTongPhanTu.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\TinhTongPhanTu\obj\Debug\net8.0\ref\TinhTongPhanTu.dll
